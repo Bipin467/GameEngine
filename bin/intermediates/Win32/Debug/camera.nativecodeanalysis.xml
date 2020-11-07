@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\renderer</FILEPATH>
+      <FILENAME>meshfilter.h</FILENAME>
+      <LINE>36</LINE>
+      <COLUMN>2</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'mesh::Mesh::m_Indices' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>mesh::Mesh::{ctor}</FUNCTION>
+    <DECORATED>??0Mesh@mesh@@QAE@XZ</DECORATED>
+    <FUNCLINE>36</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\physics\physics2d</FILEPATH>
+      <FILENAME>physics2d.h</FILENAME>
+      <LINE>8</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Physics::PhysicsID' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Physics::{ctor}</FUNCTION>
+    <DECORATED>??0Physics@@QAE@XZ</DECORATED>
+    <FUNCLINE>8</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private\renderer\camera</FILEPATH>
+      <FILENAME>camera.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Camera::m_CameraType' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@IAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private\renderer\camera</FILEPATH>
+      <FILENAME>camera.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Camera::m_FarClippingPlane' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@IAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private\renderer\camera</FILEPATH>
+      <FILENAME>camera.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Camera::m_ViewMatrix' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@IAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private\renderer\camera</FILEPATH>
+      <FILENAME>camera.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Camera::m_NearClippingPlane' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@IAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private\renderer\camera</FILEPATH>
+      <FILENAME>camera.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Camera::m_ViewPortRectSize' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@IAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private\renderer\camera</FILEPATH>
+      <FILENAME>camera.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Camera::m_ViewPortRectOrigin' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@IAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private\renderer\camera</FILEPATH>
+      <FILENAME>camera.cpp</FILENAME>
+      <LINE>5</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Camera::m_ProjectionMatrix' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Camera::{ctor}</FUNCTION>
+    <DECORATED>??0Camera@@IAE@XZ</DECORATED>
+    <FUNCLINE>5</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,18 @@
+﻿  Application.cpp
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\indexbuffer.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\renderer\renderer.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\renderer\meshfilter.h(4): warning C4099: 'Vector3': type name first seen using 'struct' now seen using 'class'
+  c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\maths.h(60): note: see declaration of 'Vector3'
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\renderer\meshfilter.h(5): warning C4099: 'Vector2': type name first seen using 'struct' now seen using 'class'
+  c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\maths.h(11): note: see declaration of 'Vector2'
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\renderer\meshrenderer.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\bipin467\source\repos\learningopengl\dependencies\glfw\include\glfw\glfw3.h(123): note: see previous definition of 'APIENTRY'
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  3 of 1338 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Bipin467\source\repos\LearningOpenGl\bin\Win32\Release\vc120.pdb'; linking object as if no debug info
+  LearningOpenGl.vcxproj -> C:\Users\Bipin467\source\repos\LearningOpenGl\bin\Win32\Release\LearningOpenGl.exe

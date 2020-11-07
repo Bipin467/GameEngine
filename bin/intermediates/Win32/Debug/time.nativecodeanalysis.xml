@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+      <FILENAME>time.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Time::m_Time' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Time::{ctor}</FUNCTION>
+    <DECORATED>??0Time@@AAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+      <FILENAME>time.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Time::m_HighPrecisionTime' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Time::{ctor}</FUNCTION>
+    <DECORATED>??0Time@@AAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

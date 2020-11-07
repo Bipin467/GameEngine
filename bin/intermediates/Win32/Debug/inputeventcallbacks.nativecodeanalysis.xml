@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+      <FILENAME>inputeventcallbacks.cpp</FILENAME>
+      <LINE>4</LINE>
+      <COLUMN>1</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer 'm_instance?m_instance=new InputEventCallbacks ((InputEventCallbacks *)-&gt;{ctor}):m_instance'. </DESCRIPTION>
+    <FUNCTION>InputEventCallbacks::GetInstance</FUNCTION>
+    <DECORATED>?GetInstance@InputEventCallbacks@@SA?AV1@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+        <FILENAME>inputeventcallbacks.cpp</FILENAME>
+        <LINE>4</LINE>
+        <COLUMN>1</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'m_instance' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

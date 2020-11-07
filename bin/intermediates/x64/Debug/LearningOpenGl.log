@@ -1,0 +1,78 @@
+﻿  Application.cpp
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\indexbuffer.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\renderer.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\application.cpp(132): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\application.cpp(135): warning C4305: '=': truncation from 'double' to 'float'
+  Assertion.cpp
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\assertion.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\assertion.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CustomDataStructures.cpp
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\customdatastructures.cpp(158): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\customdatastructures.cpp(319): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ImageLoader.cpp
+  IndexBuffer.cpp
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\indexbuffer.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Input.cpp
+  Renderer.cpp
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\indexbuffer.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\renderer.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Shader.cpp
+  Texture.cpp
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\indexbuffer.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\renderer.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Time.cpp
+  stb_image.cpp
+  VertexArray.cpp
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\indexbuffer.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\renderer.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\vertexarray.cpp(32): warning C4312: 'type cast': conversion from 'GLuint' to 'const void *' of greater size
+  VertexBuffer.cpp
+  Generating Code...
+Application.obj : error LNK2019: unresolved external symbol glewInit referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwSetWindowShouldClose referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwSetFramebufferSizeCallback referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwSetKeyCallback referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwSetMouseButtonCallback referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwSetCursorPosCallback referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+Application.obj : error LNK2019: unresolved external symbol glfwSwapInterval referenced in function main
+IndexBuffer.obj : error LNK2001: unresolved external symbol __glewBindBuffer
+VertexBuffer.obj : error LNK2001: unresolved external symbol __glewBindBuffer
+IndexBuffer.obj : error LNK2001: unresolved external symbol __glewBufferData
+VertexBuffer.obj : error LNK2001: unresolved external symbol __glewBufferData
+IndexBuffer.obj : error LNK2001: unresolved external symbol __glewDeleteBuffers
+VertexBuffer.obj : error LNK2001: unresolved external symbol __glewDeleteBuffers
+IndexBuffer.obj : error LNK2001: unresolved external symbol __glewGenBuffers
+VertexBuffer.obj : error LNK2001: unresolved external symbol __glewGenBuffers
+Shader.obj : error LNK2001: unresolved external symbol __glewAttachShader
+Shader.obj : error LNK2001: unresolved external symbol __glewCompileShader
+Shader.obj : error LNK2001: unresolved external symbol __glewCreateProgram
+Shader.obj : error LNK2001: unresolved external symbol __glewCreateShader
+Shader.obj : error LNK2001: unresolved external symbol __glewDeleteProgram
+Shader.obj : error LNK2001: unresolved external symbol __glewDeleteShader
+Shader.obj : error LNK2001: unresolved external symbol __glewGetShaderInfoLog
+Shader.obj : error LNK2001: unresolved external symbol __glewGetShaderiv
+Shader.obj : error LNK2001: unresolved external symbol __glewGetUniformLocation
+Shader.obj : error LNK2001: unresolved external symbol __glewLinkProgram
+Shader.obj : error LNK2001: unresolved external symbol __glewShaderSource
+Shader.obj : error LNK2001: unresolved external symbol __glewUniform1i
+Shader.obj : error LNK2001: unresolved external symbol __glewUniform2f
+Shader.obj : error LNK2001: unresolved external symbol __glewUniform4f
+Shader.obj : error LNK2001: unresolved external symbol __glewUseProgram
+Shader.obj : error LNK2001: unresolved external symbol __glewValidateProgram
+Texture.obj : error LNK2001: unresolved external symbol __glewActiveTexture
+VertexArray.obj : error LNK2001: unresolved external symbol __glewEnableVertexAttribArray
+VertexArray.obj : error LNK2001: unresolved external symbol __glewVertexAttribPointer
+VertexArray.obj : error LNK2001: unresolved external symbol __glewBindVertexArray
+VertexArray.obj : error LNK2001: unresolved external symbol __glewDeleteVertexArrays
+VertexArray.obj : error LNK2001: unresolved external symbol __glewGenVertexArrays
+C:\Users\Bipin467\source\repos\LearningOpenGl\Dependencies\GLEW\lib\Release\Win32\glew32s.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Bipin467\source\repos\LearningOpenGl\Dependencies\GLFW\lib-vc2017\\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Bipin467\source\repos\LearningOpenGl\bin\x64\Debug\LearningOpenGl.exe : fatal error LNK1120: 41 unresolved externals

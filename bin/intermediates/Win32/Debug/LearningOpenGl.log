@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (C:\Users\Bipin467\source\repos\LearningOpenGl\bin\intermediates\Win32\Debug\) contains files shared from another project (EngineTest.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  TextureMovement.cpp
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\indexbuffer.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\renderer\renderer.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\renderer\meshfilter.h(4): warning C4099: 'Vector3': type name first seen using 'struct' now seen using 'class'
+  c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\maths.h(60): note: see declaration of 'Vector3'
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\renderer\meshfilter.h(5): warning C4099: 'Vector2': type name first seen using 'struct' now seen using 'class'
+  c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\maths.h(11): note: see declaration of 'Vector2'
+c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\public\renderer\meshrenderer.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\program files (x86)\windows kits\10\include\10.0.18362.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\bipin467\source\repos\learningopengl\dependencies\glfw\include\glfw\glfw3.h(123): note: see previous definition of 'APIENTRY'
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\Bipin467\source\repos\LearningOpenGl\bin\Win32\Debug\vc120.pdb'; linking object as if no debug info
+  LearningOpenGl.vcxproj -> C:\Users\Bipin467\source\repos\LearningOpenGl\bin\Win32\Debug\LearningOpenGl.exe

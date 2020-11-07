@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+      <FILENAME>input.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Input::m_MouseButtonState' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Input::{ctor}</FUNCTION>
+    <DECORATED>??0Input@@AAE@XZ</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+      <FILENAME>input.cpp</FILENAME>
+      <LINE>10</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Input::m_MouseButton' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Input::{ctor}</FUNCTION>
+    <DECORATED>??0Input@@AAE@XZ</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

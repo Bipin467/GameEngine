@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+      <FILENAME>maths.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Vector2::x' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Vector2::{ctor}</FUNCTION>
+    <DECORATED>??0Vector2@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+      <FILENAME>maths.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Vector2::y' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Vector2::{ctor}</FUNCTION>
+    <DECORATED>??0Vector2@@QAE@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+      <FILENAME>maths.cpp</FILENAME>
+      <LINE>212</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Vector3::x' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Vector3::{ctor}</FUNCTION>
+    <DECORATED>??0Vector3@@QAE@XZ</DECORATED>
+    <FUNCLINE>212</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+      <FILENAME>maths.cpp</FILENAME>
+      <LINE>212</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Vector3::z' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Vector3::{ctor}</FUNCTION>
+    <DECORATED>??0Vector3@@QAE@XZ</DECORATED>
+    <FUNCLINE>212</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+      <FILENAME>maths.cpp</FILENAME>
+      <LINE>212</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Vector3::y' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Vector3::{ctor}</FUNCTION>
+    <DECORATED>??0Vector3@@QAE@XZ</DECORATED>
+    <FUNCLINE>212</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+      <FILENAME>maths.cpp</FILENAME>
+      <LINE>443</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Vector4::w' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Vector4::{ctor}</FUNCTION>
+    <DECORATED>??0Vector4@@QAE@ABU?$vec@$01M$0A@@glm@@@Z</DECORATED>
+    <FUNCLINE>443</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+      <FILENAME>maths.cpp</FILENAME>
+      <LINE>632</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Mat4::elements' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Mat4::{ctor}</FUNCTION>
+    <DECORATED>??0Mat4@@QAE@XZ</DECORATED>
+    <FUNCLINE>632</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\bipin467\source\repos\learningopengl\learningopengl\src\core\private</FILEPATH>
+      <FILENAME>maths.cpp</FILENAME>
+      <LINE>650</LINE>
+      <COLUMN>6</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Mat4::elements' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Mat4::{ctor}</FUNCTION>
+    <DECORATED>??0Mat4@@QAE@U?$mat@$03$03M$0A@@glm@@@Z</DECORATED>
+    <FUNCLINE>650</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
